@@ -26,6 +26,12 @@ La aplicación es una SPA de React, TypeScript y Vite. Solo `index.html` queda c
 
 Las antiguas direcciones `.html` redirigen a las rutas nuevas. En producción, el servidor web debe dirigir las rutas de la SPA a `index.html`.
 
+## Publicación
+
+El repositorio usa GitHub Actions para compilar y publicar en GitHub Pages al actualizar `main`. Activa la publicación en **Settings → Pages → Build and deployment → GitHub Actions**.
+
+Sitio publicado: https://nelsontrabajo14-max.github.io/tacuavida-web/
+
 ## Estructura principal
 
 ```text
